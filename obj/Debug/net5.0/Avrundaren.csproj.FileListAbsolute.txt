@@ -1,0 +1,15 @@
+/Users/luxlinna/Hermods/Avrundaren/bin/Debug/net5.0/Avrundaren.deps.json
+/Users/luxlinna/Hermods/Avrundaren/bin/Debug/net5.0/Avrundaren.runtimeconfig.json
+/Users/luxlinna/Hermods/Avrundaren/bin/Debug/net5.0/Avrundaren.runtimeconfig.dev.json
+/Users/luxlinna/Hermods/Avrundaren/bin/Debug/net5.0/Avrundaren.dll
+/Users/luxlinna/Hermods/Avrundaren/bin/Debug/net5.0/ref/Avrundaren.dll
+/Users/luxlinna/Hermods/Avrundaren/bin/Debug/net5.0/Avrundaren.pdb
+/Users/luxlinna/Hermods/Avrundaren/obj/Debug/net5.0/Avrundaren.csprojAssemblyReference.cache
+/Users/luxlinna/Hermods/Avrundaren/obj/Debug/net5.0/Avrundaren.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luxlinna/Hermods/Avrundaren/obj/Debug/net5.0/Avrundaren.AssemblyInfoInputs.cache
+/Users/luxlinna/Hermods/Avrundaren/obj/Debug/net5.0/Avrundaren.AssemblyInfo.cs
+/Users/luxlinna/Hermods/Avrundaren/obj/Debug/net5.0/Avrundaren.csproj.CoreCompileInputs.cache
+/Users/luxlinna/Hermods/Avrundaren/obj/Debug/net5.0/Avrundaren.dll
+/Users/luxlinna/Hermods/Avrundaren/obj/Debug/net5.0/ref/Avrundaren.dll
+/Users/luxlinna/Hermods/Avrundaren/obj/Debug/net5.0/Avrundaren.pdb
+/Users/luxlinna/Hermods/Avrundaren/obj/Debug/net5.0/Avrundaren.genruntimeconfig.cache
