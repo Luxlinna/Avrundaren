@@ -10,38 +10,38 @@ namespace Avrundaren
         {
             double results;
 
-            Console.Write("Please enter decimal number: ");
+            Console.Write("Skriva in decimaltal: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("\nPlease enter another decimal number: ");
+            Console.Write("\nSkriva in annat decimaltal: ");
             double num2 = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("\nPlease enter the operation: ");
+            Console.Write("\nSkriva in operatör tecknet: ");
             string op = Console.ReadLine();
 
             if (op == "+")
             {
                 results = Math.Round(num1, 5) + Math.Round(num2, 5);
-                Console.WriteLine("\nThe result is: " + Math.Round(num1, 5) + " + " + Math.Round(num2, 5) + " = " + Math.Round(results, 3));
+                Console.WriteLine("\nResultatet är : " + Math.Round(num1, 5) + " + " + Math.Round(num2, 5) + " = " + Math.Round(results, 3));
                 Console.ReadKey();
             } else if (op == "-")
             {
                 results = Math.Round(num1, 5) - Math.Round(num2, 5);
-                Console.WriteLine("\nThe result is: " + Math.Round(num1, 5) + " - " + Math.Round(num2, 5) + " = " + Math.Round(results, 3));
+                Console.WriteLine("\nResultatet är : " + Math.Round(num1, 5) + " - " + Math.Round(num2, 5) + " = " + Math.Round(results, 3));
                 Console.ReadKey();
             } else if (op == "*")
             {
                 results = Math.Round(num1, 5) * Math.Round(num2, 5);
-                Console.WriteLine("\nThe result is: " + Math.Round(num1, 5) + " * " + Math.Round(num2, 5) + " = " + Math.Round(results, 3));
+                Console.WriteLine("\nResultatet är : " + Math.Round(num1, 5) + " * " + Math.Round(num2, 5) + " = " + Math.Round(results, 3));
                 Console.ReadKey();
             } else if (op == "/")
             {
                 results = Math.Round(num1, 5) / Math.Round(num2, 5);
-                Console.WriteLine("\nThe result is: " + Math.Round(num1, 5) + " / " + Math.Round(num2, 5) + " = " + Math.Round(results, 3));
+                Console.WriteLine("\nResultatet är : " + Math.Round(num1, 5) + " / " + Math.Round(num2, 5) + " = " + Math.Round(results, 3));
                 Console.ReadKey();
             } else
             {
-                Console.WriteLine("\n The operation is wrong !!!");
+                Console.WriteLine("\nOperatör tecknet är fel !!!");
                 Console.ReadKey();
             }    
         }
