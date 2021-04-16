@@ -10,6 +10,7 @@ namespace Avrundaren
         {
             double results;
 
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write("Skriva in decimaltal: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
 
